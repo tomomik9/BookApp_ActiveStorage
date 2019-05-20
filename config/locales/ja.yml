@@ -42,15 +42,15 @@ ja:
         Show: '詳細画面'
         Back: '戻る'
   devise:
-     sessions:
-        new:
-            Username: 'ユーザー名'
-     registrations:
-        new:
-            Username: 'ユーザー名' 
-            Image: '画像'
-        edit:
-            Image: '画像'
+    sessions:
+      new:
+        Username: 'ユーザー名'
+    registrations:
+      new:
+        Username: 'ユーザー名' 
+        Imgae: '画像'
+      edit:
+        Imgae: '画像'      
   helpers:
      submit:
         create: '登録する'
